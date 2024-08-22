@@ -10,4 +10,4 @@ NOTE - It only works for internal i.p address connected on LAN not public i.p ad
 
 4. After step-1 our program begin to listen on given i.p address, if you want to know the i.p of any device or user in LAN just send this i.p to them & upon clicking or visting it, their i.p will be logged and expected OS will be printed
 5. # installation
-6. `git clone https://github.com/yourusername/simple-ip-logger.git`
+6. `git https://github.com/nik123-py/ip-logger/blob/main/ipscanner.py`
